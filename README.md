@@ -20,4 +20,6 @@ Also please copy the sample config to ~/.config/twelete/config or something.
 
 Please note that you need to register for the twitter API (https://dev.twitter.com/apps/new) make sure your app has read & write permissions. Fill in the keys in the config. Fire the script and off you go.
 
-
+Is it buggy?
+------------
+Probalby.
