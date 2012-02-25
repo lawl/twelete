@@ -1,0 +1,5 @@
+consumer_key=comsumer_key_goes_here
+consumer_secret=consumer_secret_goes_here
+
+access_token=access_token_goes_here
+access_token_secret=token_secret_goes_here
